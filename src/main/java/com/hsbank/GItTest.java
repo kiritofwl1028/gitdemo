@@ -10,5 +10,6 @@ public class GItTest {
         System.out.println("git-test2");
         System.out.println("create-hotfix");
         System.out.println("commit branch-hotfix");
+        System.out.println("develop in branch");
     }
 }
